@@ -1,0 +1,19 @@
+#tit{
+    text-align: center;
+    background: aquamarine;
+}
+
+#date1{
+    color: white;
+    background: brown;
+    text-align: right;
+}
+div.relative{
+    position: relative;
+    background: #f5f1f1;
+}
+div.absolute{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
